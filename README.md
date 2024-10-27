@@ -28,5 +28,5 @@
 
 <enter your URL here>
 
-deploy-this-repo-dominguez-bcsuf.vercel.app
+https://deploy-this-repo-dominguez-bcsuf.vercel.app
 
