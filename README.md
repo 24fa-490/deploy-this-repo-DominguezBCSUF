@@ -26,6 +26,5 @@
 
 # Where am I deployed?
 
-<enter your URL here>
-
+https://deploy-this-repo-dominguez-bcsuf.vercel.app
 
